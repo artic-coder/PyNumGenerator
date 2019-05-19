@@ -10,7 +10,10 @@ Support for **64-bits,128-bits,256-bits** and for higher bits aswell.</br>
 Support **BigData** aswell like **BigHex,BigBinary,BigOctal** etc.</br>
 **Error** and **exceptions** management.</br>
 
-
+## Download PyNumGenerator executable from **PIP**:</br>
+Command : `pip install PyNumGenerator`</br>
+ [PyNumGenerator project on PIP](https://pypi.org/project/PyNumGenerator/)
+ 
 ## Generate binary numbers:
 ![](https://github.com/haseeb-heaven/PyNumGenerator/blob/master/resources/binary_gen.png?raw=true "") 
 ![](https://github.com/haseeb-heaven/PyNumGenerator/blob/master/resources/binary_gen_file.png?raw=true "") 
