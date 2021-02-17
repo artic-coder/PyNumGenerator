@@ -10,7 +10,7 @@ Features.
 
 PyNumGenerator : V 1.0
 Dated 19-05-2019
-written by Haseeb mir (haseebmir.hm@gmail.com)  
+Written by Artic Coder
 """
 
 from tkinter import *
